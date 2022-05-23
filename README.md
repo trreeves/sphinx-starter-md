@@ -1,6 +1,6 @@
 # Sphinx Starter (Markdown)
 
-This repository contains some initial content to bootstrap a new Sphinx documentation project, using Markdown to define the content, and the Read-The-Docs theme.
+This repository contains some initial content to bootstrap a new [Sphinx](https://www.sphinx-doc.org/) documentation project, using [Markdown](https://myst-parser.readthedocs.io/en/latest/index.html) to define the content, and the [Read-The-Docs](https://github.com/readthedocs/sphinx_rtd_theme) theme.
 
 Docker is a pre-requisit.
 
